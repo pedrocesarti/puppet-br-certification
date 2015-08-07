@@ -1,0 +1,12 @@
+Jonathan.. ontem conversamos que seria interessante você iniciar pelo estudo da instalação do PE e trabalho com o console dele e tal.
+Mas pensei melhor e até para entender bem como funciona o console, seria bom que você tivesse conhecimento em toda stack do Puppet.
+Vamos começar pela stack então... Seguindo os objetivos.. eu queria que você escrevesse 5 linhas sobre cada um dos caras abaixo... e se puder dar exemplos de utilização (hands on) inclusive com os erros que vc já viu acontecer (isso é importante para verificação).
+
+
+
+
+Ecosystem
+    Describe the purpose of PuppetDB
+    Demonstrate knowledge of Hiera
+    Describe the usage of MCollective
+    Demonstrate knowledge of Facter
